@@ -1,0 +1,8 @@
+Creating another file via the application Terminal.
+
+This is done to use the commands "git status" and "git add".
+
+So when creating new files or changing the current files, at the end we use 
+the command "git add ." to tell Github to track the new changes. If it we 
+only want one file to be tracked we write "git add name_of_file".
+ 
